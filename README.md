@@ -1,0 +1,1 @@
+# Basic Webpack configuration

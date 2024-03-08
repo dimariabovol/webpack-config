@@ -3,9 +3,8 @@
   "version": "1.0.0",
   "description": "Basic webpack configuration as a fundament for projects",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "keywords": [],
   "author": "Dima Riabovol",
